@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/meteh/Documents/Unreal Projects/BuildGame/Content/Maps/NewMap.umap",
+				"C:/Users/meteh/Documents/Unreal Projects/BuildGame/Content/GameMode_Own.uasset",
+				"C:/Users/meteh/Documents/Unreal Projects/BuildGame/Content/BP_Camera_Pawn.uasset",
+				"C:/Users/meteh/Documents/Unreal Projects/BuildGame/Content/Inputs/IA_OurInputs.uasset",
+				"C:/Users/meteh/Documents/Unreal Projects/BuildGame/Content/Inputs/IMP_Context.uasset",
+				"C:/Users/meteh/Documents/Unreal Projects/BuildGame/Content/Inputs/IA_RotateOurInputs.uasset",
+				"C:/Users/meteh/Documents/Unreal Projects/BuildGame/Content/Inputs/IA_MouseControl.uasset",
+				"C:/Users/meteh/Documents/Unreal Projects/BuildGame/Content/Inputs/IA_StrafeCameraByKey.uasset",
+				"C:/Users/meteh/Documents/Unreal Projects/BuildGame/Content/Inputs/IA_MouseZoom.uasset"
+			]
+		}
+	]
+}
